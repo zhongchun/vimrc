@@ -1,4 +1,4 @@
-# vimrc
+# vim environment
 
 My vim environments.
 
