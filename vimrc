@@ -45,6 +45,7 @@ set backspace=indent,eol,start
 " Also switch on highlighting the last used search pattern.
 if &t_Co > 2 || has("gui_running")
   syntax on
+  set incsearch
   set hlsearch
 endif
 
