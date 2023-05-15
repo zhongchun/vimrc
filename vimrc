@@ -121,7 +121,7 @@ else
 
 endif " has("autocmd")
 
-set history=10240
+set history=10000
 set number                                       " 显示行号
 set autoread                                     " 文件在Vim之外修改过，自动重新读入
 set showbreak=↪                                  " 显示换行符
